@@ -1,4 +1,4 @@
-# Garud LMS - Internship Project Submission
+# Garud LMS 
 
 ## Project Overview
 
